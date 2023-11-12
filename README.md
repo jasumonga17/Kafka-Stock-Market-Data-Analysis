@@ -3,9 +3,12 @@
 ### Process:
 
 1.) Utilized Docker to streamline and containerize the deployment of Kafka for the scope of the project.
-2.) Used Jupyter notebook environment to install kafka using python.
-3.) Created a producer to write data to Kafka and serialized the content before sending it to the Kafka broker or server.
-4.) Messages were de-serialized and read using the Kaka Consumer on the other end.
+
+2.) Used the Jupyter Notebook environment to install Kafka using Python.
+
+3.) Created a producer to write data to Kafka and serialize the content before sending it to the Kafka broker or server.
+
+4.) Messages were de-serialized and read using the Kaka consumer on the other end.
 
 # Producer
 
