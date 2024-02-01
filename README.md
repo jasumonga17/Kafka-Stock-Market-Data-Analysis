@@ -1,14 +1,10 @@
 # Kafka-Stock-Market-Data-Analysis
 
 ### Process:
+•	Implemented streamlined deployment of Apache Kafka for a stock market data project, utilizing Docker to containerize the deployment process, ensuring efficient and consistent setup across environments.
 
-1.) Utilized Docker to streamline and containerize the deployment of Kafka for the scope of the project.
+•	Developed data streaming functionality in a Jupyter Notebook environment, creating a Kafka producer to serialize and transmit stock market data, and a consumer to deserialize and process the information, contributing to a robust and scalable data processing pipeline.
 
-2.) Used the Jupyter Notebook environment to install Kafka using Python.
-
-3.) Created a producer to write data to Kafka and serialize the content before sending it to the Kafka broker or server.
-
-4.) Messages were de-serialized and read using the Kaka consumer on the other end.
 
 #### Producer
 
